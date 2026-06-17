@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Thạch Hiền 👋 (Full-stack .NET & ReactJS Developer)
 
-<!--
-**thachhien-dev/thachhien-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Software Engineer from Vietnam. I focus on building robust, scalable Backend systems using C#/.NET Core, combined with smooth, interactive Frontend interfaces using ReactJS.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+
+- **Backend:** C# / .NET Core / ASP.NET Web API / Entity Framework Core
+- **Frontend:** HTML5 / CSS3 / JavaScript (ES6+) / ReactJS / Redux
+- **Databases:** SQL Server / MySQL / MongoDB
+- **Tools & Platforms:** Git & GitHub / Postman / Swagger / Docker
+
+---
+
+### 📊 GitHub Stats
+
+![Thạch Hiền's GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+
+### 📫 Connect with me:
+- **LinkedIn:** [://linkedin.com](https://linkedin.com)
+- **Email:** thachhien2000@gmail.com
