@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | .NET & ReactJS Developer
 
-Building scalable web applications with **ASP.NET Core, ReactJS, NodeJS, SQL Server, and MongoDB**
+Building scalable web applications with **ASP.NET Core, ReactJS, NodeJS, SQL Server, MySQL and MongoDB**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;ASP.NET+Core+%7C+ReactJS+%7C+NodeJS;Building+Real-World+Business+Solutions;AI-Assisted+Software+Development" />
 
