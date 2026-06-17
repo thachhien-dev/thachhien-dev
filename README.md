@@ -57,7 +57,7 @@ SQL Server • Entity Framework Core
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,antigravity" />
 </p>
 
 ---
