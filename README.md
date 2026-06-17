@@ -1,4 +1,4 @@
-# Hi there, I'm Thạch Hiền 👋 (Full-stack .NET & ReactJS Developer)
+# Hi there, I'm Thach Hien 👋 (Full-stack .NET & ReactJS Developer)
 
 A passionate Software Engineer from Vietnam. I focus on building robust, scalable Backend systems using C#/.NET Core, combined with smooth, interactive Frontend interfaces using ReactJS.
 
