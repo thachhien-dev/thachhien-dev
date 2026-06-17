@@ -21,5 +21,5 @@ A passionate Software Engineer from Vietnam. I focus on building robust, scalabl
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/hien-thach-4949b6147/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8lOrN0fjQF%2BEPEiNWSeLJw%3D%3D)
+- **LinkedIn:** [https://www.linkedin.com/in/hien-thach-4949b6147](https://www.linkedin.com/in/hien-thach-4949b6147/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8lOrN0fjQF%2BEPEiNWSeLJw%3D%3D)
 - **Email:** thachhien2000@gmail.com
