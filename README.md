@@ -15,8 +15,10 @@ A passionate Software Engineer from Vietnam. I focus on building robust, scalabl
 
 ### 📊 GitHub Stats
 
-![Thạch Hiền's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+<p align="left">
+  <img src="https://vercel.app" alt="Thạch Hiền's GitHub Stats" height="180" />
+  <img src="https://vercel.app" alt="Top Langs" height="180" />
+</p>
 
 ---
 
