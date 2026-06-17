@@ -2,14 +2,14 @@
 
 <div align="center">
 
-### Full-Stack Developer | .NET & ReactJS Developer
+### Full-Stack Developer | ASP.NET Core & ReactJS Developer
 
-Building scalable web applications with **ASP.NET Core, ReactJS, NodeJS, SQL Server, MySQL and MongoDB**
+Building modern business applications with **ASP.NET Core, ReactJS, NodeJS, SQL Server, MySQL, and MongoDB**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;ASP.NET+Core+%7C+ReactJS+%7C+NodeJS;Building+Real-World+Business+Solutions;AI-Assisted+Software+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;ASP.NET+Core+%7C+ReactJS+%7C+NodeJS;Building+Business+Applications;AI-Assisted+Software+Development" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=thachhien-dev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 </div>
@@ -151,31 +151,25 @@ Tech Stack:
 
 ---
 
-## 🎯 2026 Goals
+## 🏗 Architecture & Development Practices
 
-* Build production-ready Full-Stack applications
-* Launch InternLink MVP
-* Master ASP.NET Core ecosystem
-* Improve ReactJS architecture skills
-* Learn Cloud & DevOps fundamentals
-* Explore Microservices Architecture
-* Contribute to Open Source projects
-
----
-
-## 📚 Currently Learning
-
-```text
-ASP.NET Core Advanced
-Clean Architecture
-System Design
-Docker
-Microservices
-React Ecosystem
-AI-Assisted Development
-```
+- Layered Architecture
+- MVC Pattern
+- Clean Architecture
+- RESTful API Design
+- Repository Pattern
+- Dependency Injection
+- Authentication & Authorization
+- Database Normalization
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thachhien-dev&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thachhien-dev&layout=compact&theme=tokyonight"/>
+</p>
 
 ## 🤝 Let's Connect
 
