@@ -2,14 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/thachhien-dev/assets/main/banner.png" width="100%" />
 
-# 👋 Hi, I'm Thach Hien
-
-### Full-Stack Developer | ASP.NET Core & ReactJS Developer
-
-Building modern business applications with **ASP.NET Core, ReactJS, NodeJS, SQL Server, MySQL, and MongoDB**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;ASP.NET+Core+%7C+ReactJS+%7C+NodeJS;Building+Business+Applications;AI-Assisted+Software+Development" />
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=thachhien-dev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
@@ -168,13 +160,12 @@ Tech Stack:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thachhien-dev&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thachhien-dev&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thachhien-dev&theme=tokyonight"/>
 </p>
 
 ## 🤝 Let's Connect
 
-📧 Email: **[thachhien2000@gmail.com](mailto:thachhien2000@gmail.com)**
+📧 Email: **[th.2806.dev@gmail.com](mailto:th.2806.dev@gmail.com)**
 
 💼 LinkedIn:
 https://www.linkedin.com/in/hien-thach-4949b6147
