@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Thach Hien
-
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/thachhien-dev/assets/main/banner.png" width="100%" />
+
+# 👋 Hi, I'm Thach Hien
 
 ### Full-Stack Developer | ASP.NET Core & ReactJS Developer
 
@@ -15,7 +17,6 @@ Building modern business applications with **ASP.NET Core, ReactJS, NodeJS, SQL 
 </div>
 
 ---
-
 ## 🚀 About Me
 
 I'm a Full-Stack Developer from Vietnam passionate about building business applications, management systems, and digital platforms.
